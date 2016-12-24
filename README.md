@@ -10,7 +10,7 @@ Build your first Polymer web app. Call an API and authenticate with [JSON Web To
 
 ## Setup
 
-1. Install the Polymer CLI: `npm install -g polymer-CLI`
+1. Install the Polymer CLI: `npm install -g polymer-cli`
 2. Clone this repo into the folder of your choice
 3. Run `bower install` to install Bower components
 4. Clone [nodejs-jwt-authentication-sample](https://github.com/auth0-blog/nodejs-jwt-authentication-sample) into a different directory
